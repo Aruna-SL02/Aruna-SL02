@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack development projects**
 
-- 👨‍💻 All of my projects are available at [http://linkedin.com/in/aruna-sampath-liyanaarachchi-b90493318](http://linkedin.com/in/aruna-sampath-liyanaarachchi-b90493318)
+- 👨‍💻 Connect with me [http://linkedin.com/in/aruna-sampath-liyanaarachchi-b90493318](http://linkedin.com/in/aruna-sampath-liyanaarachchi-b90493318)
 
 - 📫 How to reach me **arunasampathlk01@gmail.com**
 
